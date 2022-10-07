@@ -1,8 +1,14 @@
-<img align = 'right' width = '400' alt='coding' src = 'https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' />
+
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)]
+
+ 
 
 
 <h1 align="center">Hi 👋, I'm Akanlegum John Apobonah</h1>
-<h3 align="center">Junior Front-end developer from Ghana</h3>
+<h3 align="center">A front-end developer frpm Ghana </h3>
+<p> I am so passionate about learning new skills and good at problem solving when it comes to coding.  </p>
+
+
 
 
 
@@ -17,6 +23,7 @@
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **akanlegumjohn2@gmail.com**
+-  <img align = 'right' width = '400' alt='coding' src = 'https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
