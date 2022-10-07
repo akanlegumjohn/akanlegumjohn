@@ -4,9 +4,9 @@
  
 
 
-<h1 align="center">Hi 👋, I'm Akanlegum John Apobonah</h1>
+<h1 align="center">Hello 👋, I'm Akanlegum John Apobonah</h1>
 <h3 align="center">A front-end developer from Ghana </h3>
-<p> I choose to study computer engineering in Kwame Nkrumah University of Science and Tecchnology because I love programming and analytical thinking when it comes to problem solving .I am so passionate about learning new skills especially from others.   </p>
+<p> I choose to study computer engineering in Kwame Nkrumah University of Science and Tecchnology because I love programming and analytical thinking when it comes to problem solving. I am so passionate about learning new skills especially from others. If you are here follow me, and I will follow you back cos I would love to know you!   </p>
 
 
 
