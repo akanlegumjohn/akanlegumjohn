@@ -5,8 +5,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Akanlegum John Apobonah</h1>
-<h3 align="center">A front-end developer frpm Ghana </h3>
-<p> I am so passionate about learning new skills and good at problem solving when it comes to coding.  </p>
+<h3 align="center">A front-end developer from Ghana </h3>
+<p> I choose to study computer engineering in Kwame Nkrumah University of Science and Tecchnology because I love programming and analytical thinking when it comes to problem solving .I am so passionate about learning new skills especially from others.   </p>
 
 
 
