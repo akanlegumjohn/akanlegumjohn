@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akanlegumjohn" alt="akanlegumjohn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zamani_gh1" target="blank"><img src="https://img.shields.io/twitter/follow/zamani_gh1?logo=twitter&style=for-the-badge" alt="zamani_gh1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/akanlegumjohn" target="blank"><img src="https://img.shields.io/twitter/follow/akanlegumjohn?logo=twitter&style=for-the-badge" alt="akanlegumjohn" /></a> </p>
 
 - 🌱 I’m currently learning **React and Nodejs**
 
